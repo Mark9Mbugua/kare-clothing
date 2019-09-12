@@ -1,4 +1,4 @@
 An online clothing store.
 
-**Stack**
+**Stack**:
 React, Redux, Firebase
